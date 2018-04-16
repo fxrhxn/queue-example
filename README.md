@@ -1,4 +1,4 @@
-# Learning about message queue's by playing around with a bunch of them.
+# Learning all about Queue's and scaling web apps.
 
 ## Helpful Videos 
 1) [Scaling Web Apps w/ Message Queue's](https://www.youtube.com/watch?v=aOrGq9yb6og)
